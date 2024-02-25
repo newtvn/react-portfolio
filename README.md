@@ -1,38 +1,37 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
-
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+A portfolio that helps tell more about the man that is Newton.
 
 ### Features
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+- **Responsive Design**: Ensures the portfolio looks great on both mobile and desktop devices.
+- **Multi-Page Layout**: Organize content effectively with multiple pages.
+- **Contact Form Integration**: Includes a functional contact form powered by EmailJs, allowing visitors to get in touch easily.
+- **Styled with React-Bootstrap**: Makes use of React-Bootstrap for styling components and layouts.
+- **Centralized Content Management**: All content can be edited from a single file, `src/content_option.js`, making updates and maintenance straightforward.
 
 ### Setup
 
-Get the code
+**Clone the Repository**
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+To get started one can access the portfolio by, cloning the repository to your local machine.
 
-<pre>yarn install</pre>
+```sh
+git clone https://github.com/newtvn/react-portfolio.git
+```
 
+**Install Dependencies**
 
-Start the server
+Navigate to the project directory and install the required dependencies.
 
-<pre>yarn start</pre>
+```sh
+yarn install
+```
 
-### More
+**Run the Application**
 
-Modify pages content in  `src/content_option.js`.
+Start the local development server to view the portfolio in your browser.
 
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+```sh
+yarn start
+```
