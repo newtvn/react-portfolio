@@ -5,10 +5,10 @@ const meta = {
 };
 
 const introdata = {
-    title: "Meet Newton Brian Nyongesa",
+    title: "Newton Brian Nyongesa",
     animated: {
         first: "Coder, Innovator, tech enthusiast",
-        second: "Web-fanatic",
+        second: "Tech-fanatic",
         third: "Full stack developer",
     },
     description: "Computer science majour, French minor with a key interest in all systems tech and inovation",
