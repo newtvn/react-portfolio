@@ -24,7 +24,7 @@
         "eject": "react-scripts eject",
         "predeploy": "npm run build && shx cp build/index.html build/404.html",
         "deploy": "gh-pages -d build"
-    },      
+    },
     "eslintConfig": {
         "extends": [
             "react-app",
