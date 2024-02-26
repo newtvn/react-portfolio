@@ -1,6 +1,6 @@
 ### Description
 
-A portfolio that helps tell more about the man that is Newton.
+Discovering Newton - Tech enthusiast and uprising developer.
 
 ### Features
 

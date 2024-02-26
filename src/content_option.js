@@ -78,66 +78,46 @@ const services = [
   ];
   
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+const dataportfolio = [
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+    img: "https://picsum.photos/400/700/?grayscale",
+       description: "Safetyaro-a food safety company that deals with the safety of food substances",
+        link: "https://newtvn.github.io/Safetyaro/"
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Simple survey application-This project comprises a web-based Survey application that allows users to respond to survey questions and view all responses. It is divided into three main components",
+        link: "https://github.com/newtvn/simple_survey_client"
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "LittleVisions is a web-based platform designed to unleash the creativity of children by allowing them to create their own interactive stories",
+        link:"https://github.com/newtvn/littlevisions"
+    },
+    {
+            img: "https://picsum.photos/400/700/?grayscale",
+        description:"Massive dataset by Amazon-This project puts a key emphasis on the efficient management of the dataset while addressing potential challenges related to memory and time complexity.",
+        link: "https://github.com/newtvn/CG_cat"
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
+        link: "https://github.com/newtvn/HeartCall"
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "Secure me-A web based platform aimed at easening the process of analysis and relationship detection in the current criminal system.",
+        link: "https://github.com/newtvn/secureme"
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "The File Verification Application is designed to validate and process CSV files containing user data. It ensures that each entry in the CSV file has a valid ID number, mobile number, and email address as per the specified formats.",
+        link: "https://github.com/newtvn/file_verification_app"
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "Urban/Monkey Rush is a 3D simulation of a monkey driving a car through a simulated city zooscape. This project is developed in C#, designed in Blender, and deployed using Unity. It aims to provide an interactive driving experience",
+        link: "https://github.com/newtvn/UrbanRush"
     },
 ];
 
