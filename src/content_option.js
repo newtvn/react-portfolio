@@ -40,26 +40,29 @@ const worktimeline = [
     },
   ];
   
-const skills = [{
-        name: "Python",
-        value: 50,
-    },
+const skills = [
     {
-        name: "Django",
-        value: 30,
+        name: "HTML, CSS AND PHP",
+        value: 85,
     },
     {
         name: "Javascript",
         value: 80,
     },
     {
-        name: "React",
+        name: "Python",
         value: 50,
     },
     {
-        name: "HTML, CSS AND PHP",
-        value: 85,
+        name: "Java",
+        value: 50,
     },
+    
+    {
+        name: "React",
+        value: 40,
+    },
+    
 ];
 
 const services = [
@@ -124,16 +127,15 @@ const dataportfolio = [
 const contactConfig = {
     YOUR_EMAIL: "newtonbryan12428@gmail.com",
     YOUR_FONE: "(+254)0110952788",
-    description: "Energetic and passionate Web Development Intern with a solid foundation in both front-end and back-end programming. Adept at translating complex solutions into actionable development plans, I am committed to leveraging my skills in HTML, CSS, JavaScript, and responsive design to create engaging user experiences. My enthusiasm for technology extends to mobile development, where I explore the intricacies of creating cross-platform applications that seamlessly integrate with web services",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    description: "Let's Bring Your Ideas to Life! Ready to turn your vision into reality? I'm here for all your project development needs. Contact me at any time for all your project ideas.",
+    YOUR_SERVICE_ID: "service_tuq576m",
+    YOUR_TEMPLATE_ID: "template_ojykqwj",
+    YOUR_USER_ID: "chyeh0dVMSnjhLRVq",
 };
 
 const socialprofils = {
     github: "https://github.com/newtvn",
     linkedin: "https://www.linkedin.com/in/newton-nyongesa-356253226/",
-    Instagram: "https://www.instagram.com/newtvn/",
 };
 export {
     meta,
