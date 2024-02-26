@@ -27,6 +27,12 @@ const worktimeline = [
       description: "Engaged in full-stack web development projects, utilizing modern frameworks and languages to create responsive and user-centric solutions."
     },
     {
+        title: "Analyst and Cross functional sentiment evaluation intern",
+        where: "Beats by Dre",
+        date: "Present",
+        description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
+    },
+    {
       jobtitle: "Oracle Hackathon Runner-Up",
       where: "Oracle Onboarded Hackathon",
       date: "2022",
@@ -65,10 +71,14 @@ const skills = [
     
 ];
 
-const services = [
+const Achievements = [
     {
       title: "Internship at Skyworld Limited",
       description: "Gaining practical experience in cutting-edge web development technologies and contributing to major projects as part of the dynamic Skyworld Limited team.",
+    },
+    {
+        title: "Externship at Beats by Dre",
+        description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
     },
     {
       title: "Oracle Hackathon Runner-Up",
