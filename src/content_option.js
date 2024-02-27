@@ -182,6 +182,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    Certificates,
     worktimeline,
     skills,
     services,
