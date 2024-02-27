@@ -6,13 +6,14 @@
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
+        "npm-force-resolutions": "^0.0.10",
         "react": "^18.2.0",
         "react-bootstrap": "^2.7.0",
         "react-dom": "^18.2.0",
         "react-helmet-async": "^1.0.7",
         "react-icons": "^4.1.0",
         "react-router-dom": "^6.6.2",
-        "react-scripts": "^5.0.1",
+        "react-scripts": "^3.0.1",
         "react-transition-group": "^4.4.2",
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^3.1.1"
@@ -25,7 +26,6 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
         "preinstall": "npx npm-force-resolutions"
-          
     },
     "eslintConfig": {
         "extends": [
@@ -51,7 +51,7 @@
     },
     "resolutions": {
         "nth-check": "2.0.1",
-        "css-what": "5.0.1"
-      }
-      
+        "css-what": "5.0.1",
+        "package-name": "version"
+    }
 }
