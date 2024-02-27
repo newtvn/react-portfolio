@@ -71,7 +71,7 @@ const skills = [
     
 ];
 
-const Achievements = [
+const Services = [
     {
       title: "Oracle Hackathon Runner-Up",
       description: "Participated in the Oracle hackathon in Kenya and some countries in East and Central Africa, emerging as runners-up.",
@@ -185,7 +185,7 @@ export {
     worktimeline,
     skills,
     Achievements,
-    Certificates,
+    Services,
     introdata,
     contactConfig,
     socialprofils,
