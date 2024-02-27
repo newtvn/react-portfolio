@@ -27,7 +27,7 @@ const worktimeline = [
       description: "Engaged in full-stack web development projects, utilizing modern frameworks and languages to create responsive and user-centric solutions."
     },
     {
-        title: "Analyst and Cross functional sentiment evaluation intern",
+        jobtitle: "Analyst and Cross functional sentiment evaluation intern",
         where: "Beats by Dre",
         date: "Present",
         description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
@@ -43,7 +43,7 @@ const worktimeline = [
       where: "A2SV Coding Hackathon",
       date: "2023",
       description: "Competed against top coders and reached the semi-finals by demonstrating strong technical skills and the ability to work under tight deadlines."
-    },
+    }
   ];
   
 const skills = [
