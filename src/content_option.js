@@ -90,31 +90,31 @@ const services = [
     },
     {
       title: "Cisco Web Development",
-      provider: "Cisco",
+      description: "Awarded by Cisco",
     },
     {
       title: "DevNet Web Development",
-      provider: "Cisco",
+      description: "Awarded by Cisco",
     },
     {
       title: "Google Automation with Python",
-      provider: "Google",
+      description: "Awarded by Google",
     },
     {
       title: "Oracle Systems Certificate",
-      provider: "Oracle",
+      description: "Awarded by Oracle",
     },
     {
       title: "Oracle Certificate of Excellence",
-      provider: "Oracle",
+      description: "Awarded by Oracle",
     },
     {
       title: "First Aid Certificate",
-      provider: "St. John Ambulance",
+      description: "Awarded by St. John Ambulance",
     },
     {
       title: "Certificate of Participation in the Africa Energy Summit",
-      provider: "Africa Energy Summit",
+      description: "Awarded by Africa Energy Summit",
     },
   ];
 
