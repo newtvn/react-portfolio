@@ -73,23 +73,54 @@ const skills = [
 
 const Achievements = [
     {
-      title: "Internship at Skyworld Limited",
-      description: "Gaining practical experience in cutting-edge web development technologies and contributing to major projects as part of the dynamic Skyworld Limited team.",
-    },
-    {
-        title: "Externship at Beats by Dre",
-        description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
-    },
-    {
       title: "Oracle Hackathon Runner-Up",
-      description: "Demonstrated exceptional problem-solving skills and innovative thinking to secure the runner-up position at the Oracle onboarded hackathon.",
+      description: "Participated in the Oracle hackathon in Kenya and some countries in East and Central Africa, emerging as runners-up.",
+    },
+    {
+      title: "Certificate of Excellence from Rotary Club",
+      description: "Achieved certificate through effectively helping with the Rotary Club.",
+    },
+    {
+      title: "Leadership Role in School Senate",
+      description: "Successfully managed to handle major roles in school, notably being a member of the school senate.",
     },
     {
       title: "A2SV Hackathon Semi-Finalist",
-      description: "Reached the semi-finals in the A2SV hackathon, showcasing proficiency in collaborative software development and rapid prototyping under pressure.",
+      description: "Currently in the semifinals of the Africa to Silicon Valley hackathon dubbed A2SV.",
     },
   ];
   
+  const Certificates = [
+    {
+      title: "Cisco Web Development",
+      provider: "Cisco",
+    },
+    {
+      title: "DevNet Web Development",
+      provider: "Cisco",
+    },
+    {
+      title: "Google Automation with Python",
+      provider: "Google",
+    },
+    {
+      title: "Oracle Systems Certificate",
+      provider: "Oracle",
+    },
+    {
+      title: "Oracle Certificate of Excellence",
+      provider: "Oracle",
+    },
+    {
+      title: "First Aid Certificate",
+      provider: "St. John Ambulance",
+    },
+    {
+      title: "Certificate of Participation in the Africa Energy Summit",
+      provider: "Africa Energy Summit",
+    },
+  ];
+
 
 const dataportfolio = [
     {
