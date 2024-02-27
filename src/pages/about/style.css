@@ -10,10 +10,7 @@
 .t_border {
     border-color: var(--text-color) !important;
 }
-.table {
-    background-color: transparent; /* This will make the background completely transparent */
-  }
-  
+
 .progress-title {
     font-size: 16px;
     font-weight: 700;
