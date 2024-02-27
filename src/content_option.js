@@ -43,7 +43,7 @@ const worktimeline = [
       where: "A2SV Coding Hackathon",
       date: "2023",
       description: "Competed against top coders and reached the semi-finals by demonstrating strong technical skills and the ability to work under tight deadlines."
-    }
+    },
   ];
   
 const skills = [
