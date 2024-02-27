@@ -71,7 +71,7 @@ const skills = [
     
 ];
 
-const Services = [
+const services = [
     {
       title: "Oracle Hackathon Runner-Up",
       description: "Participated in the Oracle hackathon in Kenya and some countries in East and Central Africa, emerging as runners-up.",
