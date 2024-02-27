@@ -19,7 +19,7 @@ const dataabout = {
     title: "meet the man ",
     aboutme:  "An energetic Web Development Intern with a keen interest in web and mobile development, I possess a strong foundation in front-end and back-end technologies, including HTML, CSS, JavaScript, and responsive design. My passion for technology drives me to seek out the latest in emerging trends, with a particular focus on the integration of AI and machine learning to enhance user interactions across platforms. I am collaborative, enjoy participating in team-driven environments, and actively contribute to open-source projects and hackathons. Eager to join a forward-thinking company, I aim to contribute innovative ideas and coding expertise to a team that values the intersection of technology and innovative digital solutions.",
 };
-const worktimeline =[ [
+const worktimeline =[ 
     {
       jobtitle: "Full stack Development Intern",
       where: "Skyworld Limited",
@@ -44,7 +44,7 @@ const worktimeline =[ [
       date: "2023",
       description: "Competed against top coders and reached the semi-finals by demonstrating strong technical skills and the ability to work under tight deadlines."
     },
-  ]];
+  ];
   
 const skills = [
     {
