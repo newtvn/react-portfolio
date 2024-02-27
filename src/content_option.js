@@ -88,9 +88,6 @@ const Services = [
       title: "A2SV Hackathon Semi-Finalist",
       description: "Currently in the semifinals of the Africa to Silicon Valley hackathon dubbed A2SV.",
     },
-  ];
-  
-  const Certificates = [
     {
       title: "Cisco Web Development",
       provider: "Cisco",
@@ -184,7 +181,6 @@ export {
     dataportfolio,
     worktimeline,
     skills,
-    Achievements,
     Services,
     introdata,
     contactConfig,
