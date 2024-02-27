@@ -7,6 +7,11 @@
     color: var(--text-color);
 }
 
+.table {
+    background-color: transparent;
+  }
+  
+
 .t_border {
     border-color: var(--text-color) !important;
 }
