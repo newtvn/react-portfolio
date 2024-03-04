@@ -140,7 +140,6 @@ const dataportfolio = [
         link: "https://github.com/newtvn/CG_cat"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
         description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
         link: "https://github.com/newtvn/HeartCall"
     },
