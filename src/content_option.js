@@ -70,7 +70,7 @@ const skills = [
     
 ];
 
-const services = [
+const Achievements = [
     {
       title: "Oracle Hackathon Runner-Up",
       description: "Participated in the Oracle hackathon in Kenya and some countries in East and Central Africa, emerging as runners-up.",
@@ -140,6 +140,7 @@ const dataportfolio = [
         link: "https://github.com/newtvn/CG_cat"
     },
     {
+        img: "https://picsum.photos/400/700/?grayscale",
         description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
         link: "https://github.com/newtvn/HeartCall"
     },
@@ -179,7 +180,7 @@ export {
     dataportfolio,
     worktimeline,
     skills,
-    services,
+    Achievements,
     introdata,
     contactConfig,
     socialprofils,

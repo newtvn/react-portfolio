@@ -7,7 +7,7 @@ import {
   meta,
   worktimeline,
   skills,
-  services,
+  Achievements,
 } from "../../content_option";
 
 export const About = () => {
