@@ -63,7 +63,6 @@ const skills = [
         name: "Java",
         value: 50,
     },
-    
     {
         name: "React",
         value: 40,
@@ -86,35 +85,35 @@ const services = [
     },
     {
       title: "A2SV Hackathon Semi-Finalist",
-      description: "Currently in the semifinals of the Africa to Silicon Valley hackathon dubbed A2SV.",
+      description: "Awarded to me for making it to the semifinals of the Africa to Silicon Valley hackathon dubbed A2SV.",
     },
     {
       title: "Cisco Web Development",
-      description: "Awarded by Cisco",
+      description: "Awarded by Cisco Networking company",
     },
     {
       title: "DevNet Web Development",
-      description: "Awarded by Cisco",
+      description: "Certified by CiscoNetworking company",
     },
     {
       title: "Google Automation with Python",
-      description: "Awarded by Google",
+      description: "Awarded by Google company",
     },
     {
       title: "Oracle Systems Certificate",
-      description: "Awarded by Oracle",
+      description: "Awarded to me by Oracle",
     },
     {
       title: "Oracle Certificate of Excellence",
-      description: "Awarded by Oracle",
+      description: "Certification was awarded to me by Oracle",
     },
     {
       title: "First Aid Certificate",
-      description: "Awarded by St. John Ambulance",
+      description: "certified and awarded by St. John Ambulance",
     },
     {
       title: "Certificate of Participation in the Africa Energy Summit",
-      description: "Awarded by Africa Energy Summit",
+      description: "Awarded by Africa Energy Summit, for attending the summit nd or conference held in Kenya at the KICC",
     },
   ];
 
