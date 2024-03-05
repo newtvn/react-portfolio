@@ -1,5 +1,6 @@
 .sec_sp {
-    margin-bottom: calc(3rem + 5.128vw)
+    margin-bottom: calc(3rem + 5.128vw);
+    color: var(--text-color);
 }
 
 .table td,
