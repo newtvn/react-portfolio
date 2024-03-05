@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c8064b26.css",
-    "main.js": "/react-portfolio/static/js/main.6aa36926.js",
+    "main.css": "/react-portfolio/static/css/main.1db1883a.css",
+    "main.js": "/react-portfolio/static/js/main.08213f4b.js",
     "index.html": "/react-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.c8064b26.css",
-    "static/js/main.6aa36926.js"
+    "static/css/main.1db1883a.css",
+    "static/js/main.08213f4b.js"
   ]
 }
