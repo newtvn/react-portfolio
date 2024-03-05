@@ -60,6 +60,18 @@ const skills = [
         value: 50,
     },
     {
+      name: "Hack",
+      value: 70,
+    },
+    {
+      name: "Bootstrap",
+      value: 50,
+    },
+    {
+      name: "Basic React",
+      value: 30,
+    },
+    {
         name: "Java",
         value: 50,
     },
@@ -89,74 +101,74 @@ const services = [
     },
     {
       title: "Cisco Web Development",
-      description: "Awarded by Cisco Networking company",
+      "description": "Completed a comprehensive web development course offered by Cisco, acquiring essential skills in web technologies and best practices."
     },
     {
       title: "DevNet Web Development",
-      description: "Certified by CiscoNetworking company",
+      "description": "Earned certification through Cisco's DevNet program, demonstrating proficiency in developing and maintaining applications built on Cisco platforms."
     },
     {
       title: "Google Automation with Python",
-      description: "Awarded by Google company",
+      "description": "Awarded for completing Google's course on automating tasks with Python, showcasing ability to streamline operations using Python scripts."
     },
     {
       title: "Oracle Systems Certificate",
-      description: "Awarded to me by Oracle",
+      "description": "Recognized by Oracle for completing a specialized course in Oracle Systems, highlighting expertise in managing Oracle database systems."
     },
     {
       title: "Oracle Certificate of Excellence",
-      description: "Certification was awarded to me by Oracle",
+      "description": "Received for exceptional performance and mastery over Oracle technologies, demonstrating advanced proficiency in Oracle solutions."
     },
     {
-      title: "First Aid Certificate",
-      description: "certified and awarded by St. John Ambulance",
+    title: "First Aid Certificate",
+      "description": "Certified by St. John Ambulance after successfully completing a comprehensive first aid training program, ready to provide emergency care."
     },
     {
       title: "Certificate of Participation in the Africa Energy Summit",
-      description: "Awarded by Africa Energy Summit, for attending the summit nd or conference held in Kenya at the KICC",
-    },
+      "description": "Acknowledged for active participation in the Africa Energy Summit held at the Kenya International Convention Centre (KICC), contributing to discussions on sustainable energy solutions in Africa."
+    }
   ];
 
 
 const dataportfolio = [
     {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
        description: "Safetyaro-a food safety company that deals with the safety of food substances",
         link: "https://newtvn.github.io/Safetyaro/"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Simple survey application-This project comprises a web-based Survey application that allows users to respond to survey questions and view all responses. It is divided into three main components",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "Simple survey application-This project comprises a web-based Survey application that allows users to respond to survey questions and view all responses. It is divided into three main components",
         link: "https://github.com/newtvn/simple_survey_client"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "LittleVisions is a web-based platform designed to unleash the creativity of children by allowing them to create their own interactive stories",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "LittleVisions is a web-based platform designed to unleash the creativity of children by allowing them to create their own interactive stories",
         link:"https://github.com/newtvn/littlevisions"
     },
     {
-            img: "https://picsum.photos/400/700/?grayscale",
-        description:"Massive dataset by Amazon-This project puts a key emphasis on the efficient management of the dataset while addressing potential challenges related to memory and time complexity.",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description:"Massive dataset by Amazon-This project puts a key emphasis on the efficient management of the dataset while addressing potential challenges related to memory and time complexity.",
         link: "https://github.com/newtvn/CG_cat"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
         link: "https://github.com/newtvn/HeartCall"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Secure me-A web based platform aimed at easening the process of analysis and relationship detection in the current criminal system.",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "Secure me-A web based platform aimed at easening the process of analysis and relationship detection in the current criminal system.",
         link: "https://github.com/newtvn/secureme"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The File Verification Application is designed to validate and process CSV files containing user data. It ensures that each entry in the CSV file has a valid ID number, mobile number, and email address as per the specified formats.",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "The File Verification Application is designed to validate and process CSV files containing user data. It ensures that each entry in the CSV file has a valid ID number, mobile number, and email address as per the specified formats.",
         link: "https://github.com/newtvn/file_verification_app"
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Urban/Monkey Rush is a 3D simulation of a monkey driving a car through a simulated city zooscape. This project is developed in C#, designed in Blender, and deployed using Unity. It aims to provide an interactive driving experience",
+      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      description: "Urban/Monkey Rush is a 3D simulation of a monkey driving a car through a simulated city zooscape. This project is developed in C#, designed in Blender, and deployed using Unity. It aims to provide an interactive driving experience",
         link: "https://github.com/newtvn/UrbanRush"
     },
 ];
