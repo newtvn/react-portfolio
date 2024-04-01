@@ -132,7 +132,7 @@ const services = [
 
 const dataportfolio = [
     {
-    img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+    img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
        description: "Safetyaro-a food safety company that deals with the safety of food substances",
         link: "https://newtvn.github.io/Safetyaro/"
     },
