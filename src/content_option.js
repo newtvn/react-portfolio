@@ -12,7 +12,7 @@ const introdata = {
         third: "Full stack developer",
     },
     description: "Computer science majour, French minor with a key interest in all systems tech and inovation",
-    your_img_url: "https://unsplash.com/photos/macbook-pro-open-near-black-canon-mug-P2SkP_PXhlU",
+    your_img_url: "https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1812&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
@@ -27,10 +27,10 @@ const worktimeline =[
       description: "Engaged in full-stack web development projects, utilizing modern frameworks and languages to create responsive and user-centric solutions."
     },
     {
-        jobtitle: "Analyst and Cross functional sentiment evaluation intern",
-        where: "Beats by Dre",
-        date: "Present",
-        description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
+      jobtitle: "Analyst and Cross functional sentiment evaluation intern",
+      where: "Beats by Dre",
+      date: "Present",
+      description: "Gaining practical experience in cutting-edge sound engineering and proforma generation with ventures into reproduction and wavelength manipulation",
     },
     {
       jobtitle: "Oracle Hackathon Runner-Up",
