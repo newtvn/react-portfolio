@@ -7,12 +7,12 @@ const meta = {
 const introdata = {
     title: "Newton Brian Nyongesa",
     animated: {
-        first: "Coder, Innovator, tech enthusiast",
+        first: "Founder and Director of Nexwave Corporations",
         second: "Tech-fanatic",
         third: "Full stack developer",
     },
     description: "Computer science majour, French minor with a key interest in all systems tech and inovation",
-    your_img_url: "https://images.unsplash.com/photo-1709377195497-b2723c8970a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    your_img_url: "https://unsplash.com/photos/macbook-pro-open-near-black-canon-mug-P2SkP_PXhlU",
 };
 
 const dataabout = {
@@ -137,37 +137,37 @@ const dataportfolio = [
         link: "https://newtvn.github.io/Safetyaro/"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "Simple survey application-This project comprises a web-based Survey application that allows users to respond to survey questions and view all responses. It is divided into three main components",
         link: "https://github.com/newtvn/simple_survey_client"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "LittleVisions is a web-based platform designed to unleash the creativity of children by allowing them to create their own interactive stories",
         link:"https://github.com/newtvn/littlevisions"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description:"Massive dataset by Amazon-This project puts a key emphasis on the efficient management of the dataset while addressing potential challenges related to memory and time complexity.",
         link: "https://github.com/newtvn/CG_cat"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "Heartcall-A mobile based application that deals with linking fast response services to health-needy people",
         link: "https://github.com/newtvn/HeartCall"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "Secure me-A web based platform aimed at easening the process of analysis and relationship detection in the current criminal system.",
         link: "https://github.com/newtvn/secureme"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "The File Verification Application is designed to validate and process CSV files containing user data. It ensures that each entry in the CSV file has a valid ID number, mobile number, and email address as per the specified formats.",
         link: "https://github.com/newtvn/file_verification_app"
     },
     {
-      img: "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-black-background-Li56AhRlcI8",
+      img: "https://files.oaiusercontent.com/file-CkiLYTNrEzQ3oVmE1Tl5YO1U?se=2024-04-01T14%3A58%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc50ca47e-a7da-44a8-816b-fa726cca686d.webp&sig=VN89QftPWJ/vnBwGTNXzKFJ58WvruN7Ub92tL4hmGbw%3D",
       description: "Urban/Monkey Rush is a 3D simulation of a monkey driving a car through a simulated city zooscape. This project is developed in C#, designed in Blender, and deployed using Unity. It aims to provide an interactive driving experience",
         link: "https://github.com/newtvn/UrbanRush"
     },
