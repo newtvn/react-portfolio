@@ -5,15 +5,17 @@ const meta = {
 };
 
 const introdata = {
-    title: "Newton Brian Nyongesa",
-    animated: {
-        first: "UI/UX Designer and Developer",
-        second: "Tech-fanatic",
-        third: "Full stack developer",
-    },
-    description: "Computer science majour, French minor with a key interest in all systems tech and inovation",
-    your_img_url: "C:\Users\newto\portfolio\react-portfolio\src\assets\images\mememe.jpg",
+  title: "Newton Brian Nyongesa",
+  animated: {
+      first: "UI/UX Designer and Developer",
+      second: "Tech-fanatic",
+      third: "Full stack developer",
+  },
+  description: "Computer science major, French minor with a key interest in all systems tech and innovation",
+  your_img_url: "/images/mememe.jpg", // Reference from public folder
 };
+
+
 
 const dataabout = {
     title: "meet the man ",
