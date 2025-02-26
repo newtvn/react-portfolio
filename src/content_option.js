@@ -43,7 +43,7 @@ const worktimeline =[
     },
     {
       jobtitle: "Oracle Hackathon Runner-Up",
-      where: "Oracle Onboarded Hackathon",
+      where: "Oracle Hackathon",
       date: "2022",
       description: "Collaborated with a team to develop innovative software solutions, earning the runner-up position for our strategic and creative approach to the given challenges."
     },
