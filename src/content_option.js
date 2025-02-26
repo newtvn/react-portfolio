@@ -12,7 +12,7 @@ const introdata = {
         third: "Full stack developer",
     },
     description: "Computer science majour, French minor with a key interest in all systems tech and inovation",
-    your_img_url: "https://imgur.com/a/GNMr4ik",
+    your_img_url: "https://images.app.goo.gl/SHPAcEkBK8Eip3er9",
 };
 
 const dataabout = {
