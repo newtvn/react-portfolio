@@ -64,6 +64,14 @@ const skills = [
       value: 70,
     },
     {
+      name: "Adobe",
+      value: 70,
+    },
+    {
+      name: "Figma and figjam",
+      value: 80,
+    },
+    {
       name: "Bootstrap",
       value: 50,
     },
@@ -72,12 +80,16 @@ const skills = [
       value: 30,
     },
     {
+      name: "Vue",
+      value: 40,
+  },
+    {
         name: "Java",
         value: 50,
     },
     {
         name: "React",
-        value: 40,
+        value: 50,
     },
     
 ];
