@@ -12,8 +12,9 @@ const introdata = {
       third: "Full stack developer",
   },
   description: "Computer science major, French minor with a key interest in all systems tech and innovation",
-  your_img_url: "/images/mememe.jpg", // Reference from public folder
+  your_img_url: "https://images.unsplash.com/photo-1709377195497-b2723c8970a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
 };
+
 
 
 
